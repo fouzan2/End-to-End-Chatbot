@@ -9,3 +9,11 @@ Once deployed, users can interact with the chatbot by sending it multiple reques
 4) Build the chatbot
 5) Test the chatbot
 6) Deploy the chatbot
+
+
+![Chatbot Pic](https://github.com/fouzan2/End-to-End-Chatbot/assets/63598800/2b4cf900-6fb7-48cf-a116-0397e3c1921c)
+
+# RUN THE PYTHON SCRIPT
+To run the python file and to see the chatbot as web application use this command on Jupyter notebook or command prompt:
+1) For Jupyter Notebook: !streamlit run streamlit_app.py
+2) For Command Prompt: streamlit run streamlit_app.py
